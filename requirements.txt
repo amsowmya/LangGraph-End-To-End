@@ -1,1 +1,12 @@
 youtube_search
+langchain_huggingface
+langchain_community
+langchain 
+langgraph
+python-dotenv
+tavily-python
+wikipedia
+chromadb
+langchainhub
+sentence_transformers
+langchain-groq
